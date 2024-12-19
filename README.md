@@ -1,5 +1,5 @@
 <h1 align="center">Assalamualaikum, I'm Junaid Jewel.</h1>
-<h3 align="center">I'm a Python developer with Django!</h3>
+<h3 align="center">I'm a Web Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjunaidjewel&label=Profile%20views&color=0e75b6&style=flat" alt="mdjunaidjewel" /> </p>
 
