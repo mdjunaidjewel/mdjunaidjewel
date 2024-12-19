@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjunaidjewel&label=Profile%20views&color=0e75b6&style=flat" alt="mdjunaidjewel" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Fontend Web Developments**
 
 - 📫 How to reach me **mdjunaidjewell@gmail.com**
 
