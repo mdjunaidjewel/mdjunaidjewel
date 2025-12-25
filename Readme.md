@@ -98,6 +98,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thank%20You%20for%20Visiting%20My%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=70" />
 </p>
 
