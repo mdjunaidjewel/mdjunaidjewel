@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://github.com/mdjunaidjewel/mdjunaidjewel/blob/main/linkedin-profile_banner%20(1).png/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Md%20Junaid%20Jewel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="linkedin-profile_banner(1).png/api?type=waving&color=0:0f172a,100:38bdf8&height=220&section=header&text=Md%20Junaid%20Jewel&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
