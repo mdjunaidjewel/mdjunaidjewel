@@ -83,10 +83,20 @@
 
 ## 📫 Connect With Me
 
-- 💼 Portfolio: https://mdjunaidjewel.netlify.app/  
-- 📘 Facebook: https://www.facebook.com/mdjunaidjewell  
-- 📱 WhatsApp: https://wa.me/+8801755715459  
-- 📧 Email: mdjunaidjewell@gmail.com  
+<p align="center">
+  <a href="https://mdjunaidjewel.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.facebook.com/mdjunaidjewell" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://wa.me/+8801755715459" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:mdjunaidjewell@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
