@@ -10,11 +10,11 @@
 
 <!-- ===================== INTRO ===================== -->
 <h2 align="center">Hi 👋, I'm Md Junaid Jewel</h2>
-<h4 align="center">A Passionate Web Developer</h4>
+<h4 align="center">A Frontend Focused Web Developer</h4>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+Developer;JavaScript+Developer"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=FFFF00&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+Developer;JavaScript+Developer"
     alt="Typing Animation"
   />
 </p>
@@ -28,11 +28,11 @@
 ## 👨‍💻 About Me
 
 - 💻 Frontend-focused Web Developer  
-- ⚛️ Experienced with **React.js & Next.js**  
-- 🎨 UI-focused development using **Tailwind CSS**  
-- 🌐 Familiar with backend technologies & databases  
-- 🛠️ Strong focus on clean, maintainable code  
-- 🎯 Aim: Build scalable & real-world web applications  
+- ⚛️ Experienced with **React & Next.js**  
+- 🎨 Clean & modern UI using **Tailwind CSS**  
+- 🌐 Familiar with backend & databases  
+- 🧠 Continuous learner & problem solver  
+- 🎯 Goal: Build scalable real-world applications  
 
 ---
 
@@ -63,6 +63,8 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -75,9 +77,9 @@
 
 - 📱 Responsive Web Design  
 - ⚡ Single Page Applications (SPA)  
-- 🎨 Modern UI/UX Implementation  
+- 🎨 Modern UI/UX Development  
 - 🔌 REST API Integration  
-- 🧼 Clean & Scalable Code Writing  
+- 🧼 Clean & Maintainable Code  
 
 ---
 
