@@ -91,10 +91,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://mdjunaidjewel.netlify.app/" target="_blank">Portfolio</a> •
-  <a href="https://www.facebook.com/mdjunaidjewell" target="_blank">Facebook</a> •
-  <a href="https://wa.me/8801755715459" target="_blank">WhatsApp</a> •
-  <a href="mailto:mdjunaidjewell@gmail.com">Email</a>
+  Portfolio: https://www.mdjunaidjewel.netlify.app/•
+  Facebook: https://www.facebook.com/mdjunaidjewell •
+  Whatsapp: 8801755715459•
+  Email: mdjunaidjewell@gmail.com
 </p>
 
 ---
