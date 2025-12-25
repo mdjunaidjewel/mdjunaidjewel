@@ -51,7 +51,7 @@
 ## 🛠️ Tools & Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel,npm" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel,npm,vite" />
 </p>
 
 ---
@@ -91,10 +91,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  Portfolio: https://www.mdjunaidjewel.netlify.app/•
-  Facebook: https://www.facebook.com/mdjunaidjewell •
-  Whatsapp: 8801755715459•
-  Email: mdjunaidjewell@gmail.com
+  <a href="https://www.mdjunaidjewel.netlify.app/" target="_blank"><img src="https://img.icons8.com/color/24/000000/domain.png"/> Portfolio</a> &nbsp; | &nbsp;
+  <a href="https://www.facebook.com/mdjunaidjewell" target="_blank"><img src="https://img.icons8.com/color/24/000000/facebook-new.png"/> Facebook</a> &nbsp; | &nbsp;
+  <a href="https://wa.me/8801755715459" target="_blank"><img src="https://img.icons8.com/color/24/000000/whatsapp.png"/> Whatsapp</a> &nbsp; | &nbsp;
+  <a href="mailto:mdjunaidjewell@gmail.com" target="_blank"><img src="https://img.icons8.com/color/24/000000/gmail.png"/> Email</a>
 </p>
 
 ---
