@@ -37,40 +37,21 @@
 
 ## 🧠 Tech Stack
 
-### 🚀 Frontend
-- React.js  
-- Next.js  
-- Tailwind CSS  
-- HTML5  
-- CSS3  
-
-### 🔧 Backend
-- Node.js  
-- Express.js  
-- Django (Familiar)  
-
-### 🗄️ Database
-- MongoDB  
-
-### 🧑‍💻 Programming Languages
-- JavaScript (ES6+)  
-- Python  
-- Java (Familiar)  
-- C  
-- C++  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,django,mongodb,python,java,c,cpp" />
+</p>
 
 ---
 
 ## 🛠️ Tools & Environment
 
-- Visual Studio Code  
-- Git & GitHub  
-- Netlify / Vercel  
-- npm  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel,npm" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
@@ -82,6 +63,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -98,9 +83,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 Portfolio: (https://mdjunaidjewel.netlify.app/)
-- 📘 Facebook: (https://www.facebook.com/mdjunaidjewell)
-- 📱 WhatsApp: (https://wa.me/+8801755715459) 
+- 💼 Portfolio: https://mdjunaidjewel.netlify.app/  
+- 📘 Facebook: https://www.facebook.com/mdjunaidjewell  
+- 📱 WhatsApp: https://wa.me/+8801755715459  
 - 📧 Email: mdjunaidjewell@gmail.com  
 
 ---
