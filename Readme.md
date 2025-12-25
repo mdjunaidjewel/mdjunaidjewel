@@ -90,41 +90,14 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 5px 10px; border: 1px solid #0ea5e9; border-radius: 8px; background-color: #1e293b;">
-        <img src="https://img.icons8.com/color/24/000000/domain.png"/> <br/>
-        Portfolio <br/>
-        https://www.mdjunaidjewel.netlify.app/
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px 10px; border: 1px solid #0ea5e9; border-radius: 8px; background-color: #1e293b; margin-top:5px;">
-        <img src="https://img.icons8.com/color/24/000000/facebook-new.png"/> <br/>
-        Facebook <br/>
-        https://www.facebook.com/mdjunaidjewell
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px 10px; border: 1px solid #0ea5e9; border-radius: 8px; background-color: #1e293b; margin-top:5px;">
-        <img src="https://img.icons8.com/color/24/000000/whatsapp.png"/> <br/>
-        Whatsapp <br/>
-        8801755715459
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px 10px; border: 1px solid #0ea5e9; border-radius: 8px; background-color: #1e293b; margin-top:5px;">
-        <img src="https://img.icons8.com/color/24/000000/gmail.png"/> <br/>
-        Email <br/>
-        mdjunaidjewell@gmail.com
-      </td>
-    </tr>
-  </table>
-</p>
+- 🌐 Portfolio: [https://www.mdjunaidjewel.netlify.app/](https://www.mdjunaidjewel.netlify.app/)  
+- 📘 Facebook: [https://www.facebook.com/mdjunaidjewell](https://www.facebook.com/mdjunaidjewell)  
+- 📱 Whatsapp: [8801755715459](https://wa.me/8801755715459)  
+- 📧 Email: [mdjunaidjewell@gmail.com](mailto:mdjunaidjewell@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=140&section=footer&text=Thank%20You%20for%20Visiting%20My%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thank%20You%20for%20Visiting%20My%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=70" />
 </p>
+
