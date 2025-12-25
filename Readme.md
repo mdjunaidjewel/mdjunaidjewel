@@ -16,10 +16,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=FFFF00&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing Animation" />
 </p>
 
-<!-- ===================== Open to Work / Abroad ===================== -->
+<!-- ===================== Open to Work / Remote ===================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to%20Abroad%20Onsite-0ea5e9?style=for-the-badge&logo=world&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Remote-0ea5e9?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 </p>
 
 <p align="center">
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=140&section=footer&text=Thank%20You!&fontSize=40&fontColor=ffffff&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=140&section=footer&text=Thank%20You%20for%20Visiting%20My%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=70" />
 </p>
