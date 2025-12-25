@@ -90,7 +90,7 @@
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [https://www.mdjunaidjewel.netlify.app/](https://www.mdjunaidjewel.netlify.app/)  
+- 🌐 Portfolio: [https://mdjunaidjewel.netlify.app/](https://mdjunaidjewel.netlify.app/)  
 - 📘 Facebook: [https://www.facebook.com/mdjunaidjewell](https://www.facebook.com/mdjunaidjewell)  
 - 📱 Whatsapp: [8801755715459](https://wa.me/8801755715459)  
 - 📧 Email: [mdjunaidjewell@gmail.com](mailto:mdjunaidjewell@gmail.com)
