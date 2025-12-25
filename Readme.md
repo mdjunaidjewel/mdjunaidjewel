@@ -91,10 +91,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.mdjunaidjewel.netlify.app/" target="_blank"><img src="https://img.icons8.com/color/24/000000/domain.png"/> Portfolio</a> &nbsp; | &nbsp;
-  <a href="https://www.facebook.com/mdjunaidjewell" target="_blank"><img src="https://img.icons8.com/color/24/000000/facebook-new.png"/> Facebook</a> &nbsp; | &nbsp;
-  <a href="https://wa.me/8801755715459" target="_blank"><img src="https://img.icons8.com/color/24/000000/whatsapp.png"/> Whatsapp</a> &nbsp; | &nbsp;
-  <a href="mailto:mdjunaidjewell@gmail.com" target="_blank"><img src="https://img.icons8.com/color/24/000000/gmail.png"/> Email</a>
+  <img src="https://img.icons8.com/color/24/000000/domain.png"/> Portfolio: https://www.mdjunaidjewel.netlify.app/ <br/>
+  <img src="https://img.icons8.com/color/24/000000/facebook-new.png"/> Facebook: https://www.facebook.com/mdjunaidjewell <br/>
+  <img src="https://img.icons8.com/color/24/000000/whatsapp.png"/> Whatsapp: 8801755715459 <br/>
+  <img src="https://img.icons8.com/color/24/000000/gmail.png"/> Email: mdjunaidjewell@gmail.com
 </p>
 
 ---
