@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="linkedin-profile_banner(1).png/" />
+  <img src="https://github.com/mdjunaidjewel/mdjunaidjewel/blob/main/linkedin-profile_banner%20(1).png" alt="Banner" width="800" /> 
 </p>
 
 <!-- ===================== PROFILE VIEWS ===================== -->
