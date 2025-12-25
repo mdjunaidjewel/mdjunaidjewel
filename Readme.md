@@ -91,10 +91,36 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://img.icons8.com/color/24/000000/domain.png"/> Portfolio: https://www.mdjunaidjewel.netlify.app/ <br/>
-  <img src="https://img.icons8.com/color/24/000000/facebook-new.png"/> Facebook: https://www.facebook.com/mdjunaidjewell <br/>
-  <img src="https://img.icons8.com/color/24/000000/whatsapp.png"/> Whatsapp: 8801755715459 <br/>
-  <img src="https://img.icons8.com/color/24/000000/gmail.png"/> Email: mdjunaidjewell@gmail.com
+  <table>
+    <tr>
+      <td align="center" style="padding: 5px 10px; border: 1px solid #0ea5e9; border-radius: 8px; background-color: #1e293b;">
+        <img src="https://img.icons8.com/color/24/000000/domain.png"/> <br/>
+        Portfolio <br/>
+        https://www.mdjunaidjewel.netlify.app/
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 5px 10px; border: 1px solid #0ea5e9; border-radius: 8px; background-color: #1e293b; margin-top:5px;">
+        <img src="https://img.icons8.com/color/24/000000/facebook-new.png"/> <br/>
+        Facebook <br/>
+        https://www.facebook.com/mdjunaidjewell
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 5px 10px; border: 1px solid #0ea5e9; border-radius: 8px; background-color: #1e293b; margin-top:5px;">
+        <img src="https://img.icons8.com/color/24/000000/whatsapp.png"/> <br/>
+        Whatsapp <br/>
+        8801755715459
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 5px 10px; border: 1px solid #0ea5e9; border-radius: 8px; background-color: #1e293b; margin-top:5px;">
+        <img src="https://img.icons8.com/color/24/000000/gmail.png"/> <br/>
+        Email <br/>
+        mdjunaidjewell@gmail.com
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
