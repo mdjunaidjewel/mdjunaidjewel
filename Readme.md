@@ -13,10 +13,13 @@
 <h4 align="center">A Frontend Focused Web Developer</h4>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=FFFF00&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+Developer;JavaScript+Developer"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=FFFF00&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+Developer;JavaScript+Developer" alt="Typing Animation" />
+</p>
+
+<!-- ===================== Open to Work / Abroad ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Abroad%20Onsite-0ea5e9?style=for-the-badge&logo=world&logoColor=white" />
 </p>
 
 <p align="center">
@@ -30,6 +33,7 @@
 - 💻 Frontend-focused Web Developer  
 - ⚛️ Experienced with **React & Next.js**  
 - 🎨 Clean & modern UI using **Tailwind CSS**  
+- 🔥 Firebase authentication & hosting  
 - 🌐 Familiar with backend & databases  
 - 🧠 Continuous learner & problem solver  
 - 🎯 Goal: Build scalable real-world applications  
@@ -39,7 +43,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,django,mongodb,python,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,django,mongodb,python,java,c,cpp,firebase" />
 </p>
 
 ---
@@ -79,6 +83,7 @@
 - ⚡ Single Page Applications (SPA)  
 - 🎨 Modern UI/UX Development  
 - 🔌 REST API Integration  
+- 🔐 Firebase Authentication  
 - 🧼 Clean & Maintainable Code  
 
 ---
@@ -86,22 +91,14 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://mdjunaidjewel.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/mdjunaidjewell" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://wa.me/8801755715459" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:mdjunaidjewell@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://mdjunaidjewel.netlify.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.facebook.com/mdjunaidjewell" target="_blank">Facebook</a> •
+  <a href="https://wa.me/8801755715459" target="_blank">WhatsApp</a> •
+  <a href="mailto:mdjunaidjewell@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=140&section=footer&text=Thank%20You!&fontSize=40&fontColor=ffffff&fontAlignY=70" />
 </p>
