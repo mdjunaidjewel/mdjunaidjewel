@@ -31,7 +31,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Frontend-focused Web Developer  
-- ⚛️ Experienced with **React & Next.js**  
+- ⚛️ Experienced with **React.js** & **Next.js (Familiar)**  
 - 🎨 Clean & modern UI using **Tailwind CSS**  
 - 🔥 Firebase authentication & hosting  
 - 🌐 Familiar with backend & databases  
@@ -59,8 +59,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjunaidjewel&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=mdjunaidjewel&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -100,4 +100,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7e5bef,100:f472b6&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=70" />
 </p>
-
