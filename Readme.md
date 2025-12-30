@@ -60,16 +60,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=mdjunaidjewel&theme=neon&hide_border=false" alt="GitHub Streak Stats" />
 </p>
@@ -77,26 +67,34 @@
 
 ---
 
-## 📊 Additional GitHub Stats
+<!-- ===================== GITHUB SUMMARY CARDS ===================== -->
+## 📊 GitHub Summary
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewell&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
+  <!-- Stats Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewel&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
 </p>
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=mdjunaidjewell&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://nirzak-streak-stats.vercel.app/?user=mdjunaidjewell&theme=neon&hide_border=false)
+  <!-- Productive Time / Commits Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewel&theme=dark&utcOffset=6" alt="Commits (GMT +6.00)" />
 </p>
 
 <p align="center">
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewell&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![Commits (GMT +6.00)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewell&theme=dark&utcOffset=6)
-  ![Top Language by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunaidjewell&theme=dark)
-  ![Top Language by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunaidjewell&theme=dark)
+  <!-- Top Language by Repo -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunaidjewel&theme=dark" alt="Top Language by Repo" />
 </p>
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=mdjunaidjewell&icon=10&color=3)](https://visitcount.itsvg.in)
+  <!-- Top Language by Commit -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunaidjewel&theme=dark" alt="Top Language by Commit" />
+</p>
+
+<p align="center">
+  <!-- Visitor Counter -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mdjunaidjewel&icon=10&color=3" alt="Visitor Count" />
+  </a>
 </p>
 
 ---
