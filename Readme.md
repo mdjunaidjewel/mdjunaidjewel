@@ -69,28 +69,26 @@
 
 ---
 
----
-
 ## 📊 Additional GitHub Stats
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rejwar&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewell&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
 </p>
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=rejwar&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://nirzak-streak-stats.vercel.app/?user=rejwar&theme=neon&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api?username=mdjunaidjewell&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://nirzak-streak-stats.vercel.app/?user=mdjunaidjewell&theme=neon&hide_border=false)
 </p>
 
 <p align="center">
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejwar&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rejwar&theme=dark&utcOffset=6)
-  ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rejwar&theme=dark)
-  ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rejwar&theme=dark)
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewell&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewell&theme=dark&utcOffset=6)
+  ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunaidjewell&theme=dark)
+  ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunaidjewell&theme=dark)
 </p>
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=rejwar&icon=10&color=3)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=mdjunaidjewell&icon=10&color=3)](https://visitcount.itsvg.in)
 </p>
 
 
