@@ -5,7 +5,7 @@
 
 <!-- ===================== PROFILE VIEWS ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdjunaidjewel&label=Profile%20Views&color=38bdf8&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mdjunaidjewel&label=Profile%20Views&color=38bdf8&style=flat" alt="Profile Views" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
@@ -59,12 +59,12 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=mdjunaidjewel&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=mdjunaidjewel&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&layout=compact&theme=tokyonight" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
