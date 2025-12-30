@@ -57,31 +57,18 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=mdjunaidjewel&theme=tokyonight&hide_border=true" />
+  ![](https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true)  
+  ![](https://nirzak-streak-stats.vercel.app/?user=mdjunaidjewel&theme=neon&hide_border=false)  
 </p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdjunaidjewel&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
+>
 
 ---
 
 ## 🌟 Extended Stats & Summary Cards
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rejwar&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
+---
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)  
-
-  ![](https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true)  
-  ![](https://nirzak-streak-stats.vercel.app/?user=mdjunaidjewel&theme=neon&hide_border=false)  
 
   ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewel&theme=dark&show_icons=true&hide_border=true&count_private=true)  
   ![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewel&theme=dark&utcOffset=6)  
