@@ -59,11 +59,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
+  <!-- Basic Stats -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=mdjunaidjewel&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -73,6 +75,23 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdjunaidjewel&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🌟 Extended Stats & Summary Cards
+
+<p align="center">
+  <!-- Neon theme extended stats -->
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100) <br><br>
+
+  ![](https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true)  
+  ![](https://nirzak-streak-stats.vercel.app/?user=mdjunaidjewel&theme=neon&hide_border=false)<br/>  
+
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewel&theme=dark&show_icons=true&hide_border=true&count_private=true)  
+  ![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewel&theme=dark&utcOffset=6)  
+  ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunaidjewel&theme=dark)  
+  ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunaidjewel&theme=dark)  
 </p>
 
 ---
