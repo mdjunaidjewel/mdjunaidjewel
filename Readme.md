@@ -76,17 +76,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewel&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats 1" />
     </td>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewel&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats 2" />
-    </td>
-  </tr>
-
-  <!-- Productive Time / Commits Cards -->
-  <tr>
-    <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewel&theme=dark&utcOffset=6" alt="Commits 1" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewel&theme=dark&utcOffset=6" alt="Commits 2" />
     </td>
   </tr>
 
@@ -95,20 +85,13 @@
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunaidjewel&theme=dark" alt="Top Language by Repo 1" />
     </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunaidjewel&theme=dark" alt="Top Language by Repo 2" />
-    </td>
-  </tr>
-
-  <!-- Top Language by Commit Cards -->
-  <tr>
+    <!-- Top Language by Commit Cards -->
     <td>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunaidjewel&theme=dark" alt="Top Language by Commit 1" />
     </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunaidjewel&theme=dark" alt="Top Language by Commit 2" />
-    </td>
+
   </tr>
+
 </table>
 
 ---
