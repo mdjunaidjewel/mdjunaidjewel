@@ -56,16 +56,24 @@
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com/?user=mdjunaidjewel&theme=tokyonight&hide_border=true" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdjunaidjewel&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mdjunaidjewel&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdjunaidjewel&theme=neon&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
 
 ---
 
