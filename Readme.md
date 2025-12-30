@@ -81,16 +81,17 @@
 </p>
 
 <p align="center">
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewell&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewell&theme=dark&utcOffset=6)
-  ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunaidjewell&theme=dark)
-  ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunaidjewell&theme=dark)
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdjunaidjewell&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  ![Commits (GMT +6.00)](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdjunaidjewell&theme=dark&utcOffset=6)
+  ![Top Language by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjunaidjewell&theme=dark)
+  ![Top Language by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdjunaidjewell&theme=dark)
 </p>
 
 <p align="center">
   [![](https://visitcount.itsvg.in/api?id=mdjunaidjewell&icon=10&color=3)](https://visitcount.itsvg.in)
 </p>
 
+---
 
 ## 🌟 What I Do
 
